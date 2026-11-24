@@ -18,7 +18,7 @@ Tourism and travel operators in the UAE and beyond who still manage bookings man
 
 ## Demo
 
-The `demo/` folder holds one small, self-contained example — a booking form component in TypeScript. It is an illustrative example only, not product code.
+The `demo/` folder holds small, self-contained examples — a booking form component (TypeScript), a price estimate (JavaScript) and a stylesheet (CSS). They are illustrative examples only, not product code.
 
 ## Status
 
