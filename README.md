@@ -16,6 +16,10 @@ One operations platform for tourism and travel operators: bookings, suppliers, d
 
 Tourism and travel operators in the UAE and beyond who still manage bookings manually — spreadsheets, WhatsApp and phone calls.
 
+## Demo
+
+The `demo/` folder holds one small, self-contained example — a booking form component in TypeScript. It is an illustrative example only, not product code.
+
 ## Status
 
 Own product of RapidBizz Pvt. Ltd. — in development.
